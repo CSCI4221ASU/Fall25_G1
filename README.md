@@ -10,6 +10,7 @@ Group 1: Camerson Brown, Sharif Mahammad, Griffin Sanders
        My Role in the group will be handling the front end part of the project. I will tackle issues like the layout, the UI and overall user experience when using the software.
 
   b. Sharif Muhaamad 
+  
        Role in Group: My role in this project is Backend Developer. I will focus on building and testing the server-side logic, maintaining the database and API integrations, managing commits, and helping review group contributions to ensure functionality and stability.
        Group Members
    
