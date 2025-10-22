@@ -46,9 +46,9 @@ a. Cameron Brown
     Decided to use Figma for prototyping and to store visuals in the GitHub repo.
 
   PBI
-
-  | 1. Research and document user behaviours of busy professionals using scheduling apps                                                                   | Ready for consideration | 2 weeks | One senior UX researcher for 40 hours            | Sharif Muhammod | Cameron Brown   |
+  | Tasks to do | Status | Sprint | Estimate | Assigned | Reviewer |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------|--------------------------------------------------|-----------------|-----------------|
+  | 1. Research and document user behaviours of busy professionals using scheduling apps                                                                   | Ready for consideration | 2 weeks | One senior UX researcher for 40 hours            | Sharif Muhammod | Cameron Brown   |
 | 2. Analyze time-management and expense-tracking needs of students                                                                                      | Ready for consideration | 2 weeks | One senior UX researcher for 40 hours            | Cameron Brown   | Griffin Sanders |
 | 3. Collect insights on how families plan and share events and budgets                                                                                  | Ready for consideration | 2 weeks | One senior UX researcher for 40 hours            | Griffin Sanders | Sharif Muhammod |
 | 4. Prototype a Calendar System with Event Conflict Detection, showing how overlapping tasks are identified and flagged for rescheduling                | Ready for consideration | 3 Weeks | Two junior developers for 72 hours               | Cameron Brown   | Griffin Sanders |
